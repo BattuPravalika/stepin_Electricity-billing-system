@@ -29,6 +29,22 @@ Our System mainly focuses finding the cost of the electricity consumed by consum
 •	There is provision for debugging if any problem is encountered in the system.
 ## ELECTRICAL CALCULATIONS INCLUDE
  Calculations include calculating total bill of consumer/user according to units consumed by consumer and area he belongs to.
+## 4W and 1H
+
+### Who:
+The application is for the user who consuming electricity and wants to know how much he has to pay for his usage.
+
+### What:
+The objective of the project is to develop an application which is useful for a person who is consume electricity and to generate bill by himself.
+
+### Where:
+It can be used by every domestic /commercial user to generate the bill according their usage.
+
+### When:
+If a user wants to know how much it cost for the electricity he has used.
+
+### How:
+It is a handy system, you can enter your id and number of units consumed, it shows the amount of electricity consumed
 
 
 

@@ -47,6 +47,23 @@ If a user wants to know how much it cost for the electricity he has used.
 It is a handy system, you can enter your id and number of units consumed, it shows the amount of electricity consumed
 ## SWOT Analysis
 ![swot](https://user-images.githubusercontent.com/89590962/132450962-fbe1ad24-188e-4957-93b4-4d0cc57c23cd.png)
+## HIGH LEVEL REQUIREMENTS:
+
+|RID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|HLR1|details|IMPLEMENTED|
+|HLR2|regions|IMPLEMENTED|
+|HLR3|bill calculation|IMPLEMENTED|
+
+
+## LOW LEVEL REQUIREMENTS:
+
+|RID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|LLR1|Name,id,place|IMPLEMENTED|
+|LLR2|regions to specified|IMPLEMENTED|
+|LLR3|tariff for regions|IMPLEMENTED|
+
 
 
 
